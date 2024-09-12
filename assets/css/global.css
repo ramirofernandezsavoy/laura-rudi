@@ -111,13 +111,13 @@
 :root {
 	
 	/* #31645e in decimal RGB */
-  --main-color: rgb(49,100,94);
+  --main-color: #EB5352;
   
   /* #ffe4aa in decimal RGB */
-  --main-color-two: rgb(255,228,170);
+  --main-color-two: #EBB26D;
   
   /* #fbf7f5 in decimal RGB */
-  --color-three: rgb(251,247,245);
+  --color-three: #FFEBD8;
   
   /* #f6eaff in decimal RGB */
   --color-four: rgb(246,234,255);
@@ -144,7 +144,7 @@
   --color-eleven: rgb(100,141,139);
   
   /* #c6e8f6 in decimal RGB */
-  --color-twelve: rgb(198,232,246);
+  --color-twelve: #F4DED0;
   
   /* #fff5e1 in decimal RGB */
   --color-thirteen: rgb(255,245,225);
@@ -195,7 +195,7 @@
   --color-twentyeight: rgb(0,44,98);
   
   /* #ffffff in decimal RGB */
-  --white-color:rgb(255,255,255);
+  --white-color:rgb(255, 255, 255);
   
   /* #ffffff in decimal RGBA */
   --white-color-opicity:rgba(255,255,255,0.80);
