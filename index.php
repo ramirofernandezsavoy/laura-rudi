@@ -736,7 +736,7 @@
               </div>
 
               <!-- Service Block -->
-              <div class="service-block">
+              <div class="service-block translate-top">
                 <div class="inner-box">
                   <div class="image">
                     <a href="#"
@@ -780,7 +780,7 @@
                 </div>
 
                   <!-- Service Block -->
-              <div class="service-block">
+              <div class="service-block translate-top">
                 <div class="inner-box">
                   <div class="image">
                     <a href="#"
@@ -802,7 +802,7 @@
               </div>
 
                 <!-- Service Block -->
-                <div class="service-block">
+                <div class="service-block ">
                   <div class="inner-box">
                     <div class="image">
                       <a href="#"
@@ -824,7 +824,7 @@
                 </div>
 
                   <!-- Service Block -->
-              <div class="service-block">
+              <div class="service-block translate-top">
                 <div class="inner-box">
                   <div class="image">
                     <a href="#"

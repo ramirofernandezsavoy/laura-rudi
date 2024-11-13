@@ -37,7 +37,7 @@
             	
 				<!-- Logo Box -->
 				<div class="pull-left logo-box">
-					<div class="logo"><a href="index.html"><img src="assets/images/logo.png" alt="" title=""></a></div>
+					<div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt="" title=""></a></div>
 				</div>
 				
 				<!-- Nav Outer -->
@@ -383,7 +383,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-cancel-1"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="blog.html">
+	<form method="post" action="blog.php">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

@@ -37,7 +37,7 @@
 		<!-- Logo Box -->
 		<div class="pull-left logo-box">
 		  <div class="logo">
-			<a href="index.html"
+			<a href="index.php"
 			  ><img src="assets/images/logo.png" alt="Logo Laura Rudi"
 			/></a>
 		  </div>
@@ -76,7 +76,7 @@
 				<li class="dropdown">
 				  <a href="#">Sobre mí</a>
 				  <ul>
-					<li><a href="about.html">Laura Rudi</a></li>                        
+					<li><a href="about.php">Laura Rudi</a></li>                        
 				  </ul>
 				</li>
 				<li class="dropdown">
@@ -120,7 +120,7 @@
 	  <div class="auto-container clearfix">
 		<!--Logo-->
 		<div class="logo pull-left">
-		  <a href="index.html" title=""
+		  <a href="index.php" title=""
 			><img src="assets/images/logo-small-black.png" alt="Logo pequeño Laura Rudi" title=""
 		  /></a>
 		</div>
@@ -150,7 +150,7 @@
 
 	  <nav class="menu-box">
 		<div class="nav-logo">
-		  <a href="index.html"
+		  <a href="index.php"
 			><img src="assets/images/logo-small.png" alt="" title=""
 		  /></a>
 		</div>
@@ -179,12 +179,12 @@
 					<div class="sidebar-info-contents">
 						<div class="content-inner">
 							<div class="logo">
-								<a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+								<a href="index.php"><img src="assets/images/logo.png" alt="" /></a>
 							</div>
 							<div class="content-box">
 								<h4>About Us</h4>
 								<p class="text">I am glad that you have made it here to send a distress signal, and inform the Senate that all on board killed. Dantooine. I’m not going to Alderaan. I really got to go. But that to me.</p>
-								<a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Consultation</span></a>
+								<a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Consultation</span></a>
 							</div>
 							<div class="contact-info">
 								<h4>Contact Info</h4>
@@ -220,7 +220,7 @@
 			</div>
 			<div class="breadcrumb-outer">
 				<ul class="page-breadcrumb">
-					<li><a href="index.html">Inicio</a></li>
+					<li><a href="index.php">Inicio</a></li>
 					<li>Sobre mí</li>
 				</ul>
 			</div>
@@ -437,7 +437,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-cancel-1"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="blog.html">
+	<form method="post" action="blog.php">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

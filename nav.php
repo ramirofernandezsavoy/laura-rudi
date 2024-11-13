@@ -30,10 +30,10 @@
                     <li class="dropdown">
                       <a href="#">Servicios</a>
                       <ul>
-                        <li><a href="/coaching-ontologico.html">Coaching Ontológico</a></li>
+                        <li><a href="/coaching-ontologico.php">Coaching Ontológico</a></li>
                         
                         <li>
-                          <a href="/coaching-deportivo.html">Coaching Deportivo</a>
+                          <a href="/coaching-deportivo.php">Coaching Deportivo</a>
                         </li>                                                
                       </ul>
                     </li>
@@ -56,11 +56,11 @@
                     <li class="dropdown">
                       <a href="#">Sobre mí</a>
                       <ul>
-                        <li><a href="about.html">Laura Rudi</a></li>                        
+                        <li><a href="about.php">Laura Rudi</a></li>                        
                       </ul>
                     </li>
-                    <!-- <li><a href="/blog.html">Blog</a></li> -->
-                    <li><a href="contact.html" >Contacto</a></li>
+                    <!-- <li><a href="/blog.php">Blog</a></li> -->
+                    <li><a href="contact.php" >Contacto</a></li>
                   </ul>
                 </div>
               </nav>
