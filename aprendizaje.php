@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Enojo Inteligente | Laura Rudi</title>
+<title>Camino del aprendizaje | Laura Rudi</title>
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
 <link href="assets/css/style.css" rel="stylesheet">
@@ -109,7 +109,7 @@
 		<div class="auto-container">
 			<div class="content-box">
 				<div class="title">Coaching Ontológico</div>
-				<h1>El enojo <br> Inteligente</h1>
+				<h1>El camino del <br> Aprendizaje</h1>
 				<ul class="course-info">
 					<li>Última actualización 12 Nov. 2023</li>
 					<li><span class="icon fa fa-user"></span>60+ personas ya lo tomaron</li>
@@ -341,7 +341,7 @@
 								<ul class="intro-list">
 									<li><span class="icon fa fa-link"></span><strong>Nivel</strong><i>Introductorio</i></li>
 									<li><span class="icon fa fa-clock-o"></span><strong>Duración</strong><i>90 minutos</i></li>									
-									<li><span class="icon fa fa-book"></span><strong>Temática</strong><i>Enojo Inteligente</i></li>
+									<li><span class="icon fa fa-book"></span><strong>Temática</strong><i>Camino de aprendizaje</i></li>
 									<li><span class="icon fa fa-money"></span><strong>Idioma</strong><i>Español</i></li>
 								</ul>
 								

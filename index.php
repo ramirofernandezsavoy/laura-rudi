@@ -611,6 +611,7 @@
              <!-- Counter Box -->
 						<div class="counter-box counter-box-text" style="display: flex; justify-content: center;">
               <div>
+                
 							  <p style="font-size: 1.1rem; font-style: italic; text-align: end;">« La vida es una cuestión de elecciones, y cada elección que haces, te hace a ti ». <br><span style="font-weight: bold;" > John C. Maxwell.</span></p>
               </div>
 						<!-- End Counter Box -->
