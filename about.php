@@ -29,91 +29,27 @@
     <div class="preloader"></div>
 	<!-- End Preloader -->
  	
- <!-- Header Style One -->
- <header class="main-header">
-	<!-- Header Lower -->
-	<div class="header-lower">
-	  <div class="auto-container clearfix">
-		<!-- Logo Box -->
-		<div class="pull-left logo-box">
-		  <div class="logo">
-			<a href="index.php"
-			  ><img src="assets/images/logo.png" alt="Logo Laura Rudi"
-			/></a>
-		  </div>
-		</div>
+      <!-- Header Style One -->
+      <header class="main-header">
+        <!-- Header Lower -->
+        <div class="header-lower">
+          <div class="auto-container clearfix">
+            <!-- Logo Box -->
+            <div class="pull-left logo-box">
+              <div class="logo">
+                <a href="index.php"
+                  ><img src="assets/images/logo.png" alt="Logo Laura Rudi"
+                /></a>
+              </div>
+            </div>
 
-		<!-- Nav Outer -->
-		<div class="nav-outer clearfix">
-		  <!-- Mobile Navigation Toggler -->
-		  <div class="mobile-nav-toggler">
-			<span class="icon flaticon-menu"></span>
-		  </div>
-		  <!-- Main Menu -->
-		  <nav class="main-menu navbar-expand-md">
-			<div class="navbar-header">
-			  <!-- Toggle Button -->
-			  <button
-				class="navbar-toggler"
-				type="button"
-				data-toggle="collapse"
-				data-target="#navbarSupportedContent"
-				aria-controls="navbarSupportedContent"
-				aria-expanded="false"
-				aria-label="Toggle navigation"
-			  >
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			  </button>
-			</div>
+            <!-- Nav Outer -->
+            <?php
+            include("./nav.php")
+            ?>
 
-			<div
-			  class="navbar-collapse collapse clearfix"
-			  id="navbarSupportedContent"
-			>
-			  <ul class="navigation clearfix">
-				<li class="dropdown">
-				  <a href="#">Sobre mí</a>
-				  <ul>
-					<li><a href="about.php">Laura Rudi</a></li>                        
-				  </ul>
-				</li>
-				<li class="dropdown">
-				  <a href="#">Servicios</a>
-				  <ul>
-					<li><a href="#">Coaching Ontológico</a></li>
-					<li>
-					  <a href="#">Coaching Deportivo</a>
-					</li>
-				  </ul>
-				</li>
-				<li class="dropdown">
-				  <a href="#">Talleres</a>
-				  <ul>
-					<li><a href="#">Todos</a></li>
-					<li><a href="#">Taller 1</a></li>
-					<li><a href="#">Taller 2</a></li>
-					<li><a href="#">Taller 3</a></li>
-				  </ul>
-				</li>
-				<li><a href="#">Blog</a></li>
-				<li><a href="#">Contacto</a></li>
-			  </ul>
-			</div>
-		  </nav>
-
-		  <!-- Main Menu End-->
-		  <div class="outer-box clearfix">
-			<!-- Nav Btn -->
-			<div class="nav-btn navSidebar-button transition-300ms">
-			  <span class="icon flaticon-menu-1"></span>
-			</div>
-		  </div>
-		</div>
-	  </div>
-	</div>
-	<!-- End Header Lower -->
+          </div>
+        </div>
 
 	<!-- Sticky Header  -->
 	<div class="sticky-header">
@@ -212,7 +148,7 @@
 	<!-- END sidebar widget item -->
 	
 	<!-- Page Title Section -->
-	<section class="page-title" style="background-image: url(assets/images/background/bg-about.webp)">
+	<section class="page-title" style="background-image: url(assets/images/background/bg-about.webp);">
 		<div class="auto-container">
 			<div class="content">
 				<div class="text">Laura Daniela Rudi</div>

@@ -852,11 +852,11 @@
       <!-- End Services Section -->
 
       <!-- Course Section -->
-      <section class="course-section">
+      <!-- <section class="course-section">
         <div class="auto-container">
-          <div class="row clearfix">
+          <div class="row clearfix"> -->
             <!-- Title Column -->
-            <div class="title-column col-lg-6 col-md-12 col-sm-12">
+            <!-- <div class="title-column col-lg-6 col-md-12 col-sm-12">
               <div class="inner-column">
                 <div class="sec-title">
                   <div class="title color-three">
@@ -866,10 +866,10 @@
                   <div class="text">
                     Accedé a uno de mis talleres gratuitamente. Ingresá tu correo electrónico y te enviaremos la información necesaria para ver el video.
                   </div>
-                </div>
+                </div> -->
 
                 <!-- Email Box -->
-                <div class="email-box">
+                <!-- <div class="email-box">
                   <form method="post" action="contact.php">
                     <div class="form-group">
                       <span class="icon flaticon-envelope"></span>
@@ -887,10 +887,10 @@
                   </form>
                 </div>
               </div>
-            </div>
+            </div> -->
 
             <!-- Video Column -->
-            <div class="video-column col-lg-6 col-md-12 col-sm-12">
+            <!-- <div class="video-column col-lg-6 col-md-12 col-sm-12">
               <div
                 class="inner-column wow fadeInRight"
                 data-wow-delay="0ms"
@@ -901,9 +901,9 @@
                   style="
                     background-image: url(assets/images/background/pattern-1.png);
                   "
-                ></div>
+                ></div> -->
                 <!-- Video Box -->
-                <div class="video-box">
+                <!-- <div class="video-box">
                   <figure class="video-image">
                     <img
                       class="transition-500ms"
@@ -922,7 +922,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
       <!-- End Course Section -->
 
       <!-- Process Section -->
@@ -1116,84 +1116,6 @@
         </div>
       </section>
       <!-- End Testimonial Section -->
-
-      <!-- News Section -->
-      <section class="news-section">
-        <div class="auto-container">
-          <!-- Sec Title -->
-          <div class="sec-title">
-            <div class="title color-three">Blog</div>
-            <h2>Blog e ideas</h2>
-          </div>
-          <div class="row clearfix">
-            <!-- News Block -->
-            <div class="news-block col-lg-6 col-md-6 col-sm-12">
-              <div
-                class="inner-box wow fadeInLeft"
-                data-wow-delay="0ms"
-                data-wow-duration="1500ms"
-              >
-                <div class="post-date">Enero 21, 2023</div>
-                <h3>
-                  <a href="#"
-                    >Deja de ignorar estos 7 tips que van a hacer 1% mejor cada dia.</a
-                  >
-                </h3>
-                <div class="author-box">
-                  <div class="box-inner">
-                    <div class="author-image">
-                      <img src="assets/images/resource/user5.jpg" alt="" />
-                    </div>
-                    <h5>Sofi Rodriguez</h5>
-                    <div class="designation">Coach Ontológico, @srodriguezcoaching</div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- News Block -->
-            <div class="news-block style-two col-lg-3 col-md-6 col-sm-12">
-              <div
-                class="inner-box wow fadeInRight"
-                data-wow-delay="0ms"
-                data-wow-duration="1500ms"
-              >
-                <div class="post-date">Diciembre 16, 2022</div>
-                <h3>
-                  <a href="#"
-                    >¿Como establecer un plan de acción para lograr objetivos?</a
-                  >
-                </h3>
-                <div class="author-box">
-                  <h5>Daniel Dorio</h5>
-                  <div class="designation">Psicólogo, Univ. de Luján</div>
-                </div>
-              </div>
-            </div>
-
-            <!-- News Block -->
-            <div class="news-block style-two col-lg-3 col-md-6 col-sm-12">
-              <div
-                class="inner-box wow fadeInRight"
-                data-wow-delay="0ms"
-                data-wow-duration="1500ms"
-              >
-                <div class="post-date">Septiembre 22, 2022</div>
-                <h3>
-                  <a href="#"
-                    >Involucrarse con las personas a tu alrededor, te prepara para cualquier tarea.</a
-                  >
-                </h3>
-                <div class="author-box">
-                  <h5>Alexis Borrione</h5>
-                  <div class="designation">Blogger</div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End News Section -->
 
       <!-- Main Footer -->
        <?php

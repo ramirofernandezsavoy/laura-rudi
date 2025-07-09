@@ -17,9 +17,8 @@
                   <div class="content-box">
                     <h4>Sobre mí</h4>
                     <p class="text">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Eius magnam illo mollitia alias ab debitis, consectetur
-                      quam labore velit maiores maxime voluptate!
+                      Mi nombre es Laura y soy Coach hace 5 años. Acompaño a personas, equipos y familias en procesos de transformación personal y relacional. Creo en el poder de la escucha, la palabra y el compromiso como herramientas para el cambio.
+                      Te invito a redescubrir tus posibilidades y construir desde el presente el futuro que querés vivir.
                     </p>
                     <a href="contact.html" class="theme-btn btn-style-one"
                       ><span class="txt">Contacto</span></a
@@ -36,7 +35,7 @@
                         <span class="icon fa fa-phone"></span>(+54) 11-6704820X
                       </li>
                       <li>
-                        <span class="icon fa fa-envelope"></span>rawii.k@gmail.com
+                        <span class="icon fa fa-envelope"></span>laurarudicoach@gmail.com
                       </li>
                     </ul>
                   </div>
@@ -44,25 +43,13 @@
                   <ul class="social-box">
                     <li>
                       <a
-                        href="https://www.facebook.com/"
-                        class="fa fa-facebook-f"
+                        href="https://www.instagram.com/coach.laurarudi/"
+                        class="fa fa-instagram"
                       ></a>
-                    </li>
+                    </li>                    
                     <li>
                       <a
-                        href="https://www.twitter.com/"
-                        class="fa fa-twitter"
-                      ></a>
-                    </li>
-                    <li>
-                      <a
-                        href="https://www.linkedin.com/"
-                        class="fa fa-linkedin"
-                      ></a>
-                    </li>
-                    <li>
-                      <a
-                        href="https://youtube.com/"
+                        href="https://www.youtube.com/channel/laurarudi/"
                         class="fa fa-youtube-play"
                       ></a>
                     </li>

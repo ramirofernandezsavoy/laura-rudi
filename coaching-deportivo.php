@@ -32,28 +32,27 @@
 		<div class="preloader"></div>
 		<!-- End Preloader -->
 
-		<!-- Header Style One -->
-		<header class="main-header">		
-
-			<!-- Header Lower -->
-			<div class="header-lower">
-				<div class="auto-container clearfix">
-
-					<!-- Logo Box -->
-					<div class="pull-left logo-box">
-						<div class="logo"><a href="index.html"><img src="assets/images/logo.png" alt="" title=""></a>
-						</div>
-					</div>
-
-					<!-- Nav Outer -->
-					
-					<?php
-            include("./nav.php")
-            ?>
-
-				</div>
-			</div>
-			<!-- End Header Lower -->
+<!-- Header Style One -->
+    <header class="main-header">
+		<!-- Header Lower -->
+        <div class="header-lower">
+        	<div class="auto-container clearfix">
+            	
+				<!-- Logo Box -->
+				<div class="pull-left logo-box">
+					<div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt="" title=""></a></div>
+				</div>			
+				
+				 <!-- Nav Outer -->
+				 <?php
+            			include("./nav.php")
+            		?>
+				
+            </div>
+        </div>
+        <!-- End Header Lower -->
+      
+      <!-- End Header Style One -->
 
 			<!-- Sticky Header  -->
 			<div class="sticky-header">
@@ -148,7 +147,7 @@
 		<!-- END sidebar widget item -->
 
 		<!-- Page Title Section -->
-		<section class="page-title" style="background-image: url(assets/images/resource/coaching-deportivo-bg.jpg)">
+		<section class="page-title" style="background-image: url(assets/images/background/bg-deportivo.webp)">
 			<div class="auto-container">
 				<div class="content">
 					<div class="text">Laura Rudi</div>
@@ -162,6 +161,7 @@
 			</div>
 		</section>
 		<!-- End Page Title Section -->
+		
 
 		<!-- Sidebar Page Container -->
 		<div class="sidebar-page-container">
@@ -183,6 +183,11 @@
 								</div>
 								<h3>¿Cómo acercarme a mis objetivos?</h3>
 								<p>Para acercarte a tus objetivos deportivos, enfocáte en una mentalidad de crecimiento, trabajando con constancia y claridad. Definí metas concretas, mantené un plan flexible y rodeate de apoyo profesional. Así, vas a superar desafíos, aprovechar tus fortalezas y avanzar hacia tu máximo rendimiento.</p>								
+								<div class="button-box text-center">
+                    <a href="contact.html" class="theme-btn btn-style-two"
+                      ><span class="txt">¡Charlemos!</span></a
+                    >
+                  </div>
 								<blockquote>
 									<span class="quote-icon flaticon-quote-2"></span>
 									<div class="quote-text">“El camino hacia una medalla no es nada fácil, ningún partido es fácil. Esto sigue, es el principio de un montón de cosas”</div>
@@ -210,12 +215,7 @@
                   data-textalign="['top','top','top','top']"
                   data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                   
-                >
-                  <div class="button-box">
-                    <a href="contact.html" class="theme-btn btn-style-two"
-                      ><span class="txt">¡Charlemos!</span></a
-                    >
-                  </div>
+                >                  
                 </div>
 								</div>
 							</div>

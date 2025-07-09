@@ -28,19 +28,17 @@
                         <!-- Column -->
                         <div class="column col-lg-6 col-md-6 col-sm-12">
                           <ul class="list-link">
-                            <li><a href="#">Inicio</a></li>
-                            <li><a href="#">Sobre mí</a></li>
-                            <li><a href="#">Servicios</a></li>
-                            <li><a href="#">Talleres</a></li>                            
+                            <li><a href="./index.php">Inicio</a></li>
+                            <li><a href="./about.php">Sobre mí</a></li>
+                            <li><a href="./talleres.php">Talleres</a></li>
                           </ul>
                         </div>
                         <!-- Column -->
                         <div class="column col-lg-6 col-md-6 col-sm-12">
-                          <ul class="list-link">
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Contacto</a></li>
-                            <li><a href="#">Ontológico</a></li>
-                            <li><a href="#">Deportivo</a></li>                            
+                          <ul class="list-link">                            
+                            <li><a href="./contact.php">Contacto</a></li>
+                            <li><a href="./coaching-ontologico.php">Ontológico</a></li>
+                            <li><a href="./coaching-deportivo.php">Deportivo</a></li>
                           </ul>
                         </div>
                       </div>
@@ -59,11 +57,18 @@
                       <ul class="contact-info-list">
                         <li>
                           <span>Locación</span
-                          ><a href="#"
+                          ><p 
                             >Castelar, <br />
-                            Buenos Aires, ARG</a
+                            Buenos Aires, ARG</p
                           >
-                        </li>                     
+                        </li>  <li>
+                          <span>Teléfono</span
+                          >
+                            <a
+                              href="tel:+54123456789"
+                              >+(54) 11-3456-5789 </a
+                            >
+                          </li>
                       </ul>
                     </div>
                   </div>

@@ -161,10 +161,10 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-autoconfianza.webp" alt="" /></a>
+							<a href="autoconfianza.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-autoconfianza.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.php">Como construir autoconfianza</a></h5>
+							<h5><a href="autoconfianza.php">Como construir autoconfianza</a></h5>
 							<ul class="post-info">
 								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
 								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
@@ -177,10 +177,10 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-poder.webp" alt="" /></a>
+							<a href="poder-control.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-poder.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.php">Poder y <br> control</a></h5>
+							<h5><a href="poder-control.php">Poder y <br> control</a></h5>
 							<ul class="post-info">
 								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
 								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
@@ -193,10 +193,10 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-ansiedad.webp" alt="" /></a>
+							<a href="ansiedad.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-ansiedad.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.php">Piedra libre a <br>la ansiedad</a></h5>
+							<h5><a href="ansiedad.php">Piedra libre a <br>la ansiedad</a></h5>
 							<ul class="post-info">
 								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
 								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
@@ -209,10 +209,10 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-tristeza.webp" alt="" /></a>
+							<a href="tristeza-alegria.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-tristeza.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.php">De la tristeza a <br>la alegría</a></h5>
+							<h5><a href="tristeza-alegria.php">De la tristeza a <br>la alegría</a></h5>
 							<ul class="post-info">
 								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
 								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
@@ -225,10 +225,10 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-enojo.webp" alt="" /></a>
+							<a href="enojo.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-enojo.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.php">El enojo <br>inteligente</a></h5>
+							<h5><a href="enojo.php">El enojo <br>inteligente</a></h5>
 							<ul class="post-info">
 								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
 								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
@@ -241,10 +241,10 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-aprendizaje.webp" alt="" /></a>
+							<a href="aprendizaje.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-aprendizaje.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.php">El camino del <br>aprendizaje</a></h5>
+							<h5><a href="aprendizaje.php">El camino del <br>aprendizaje</a></h5>
 							<ul class="post-info">
 								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
 								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
@@ -257,10 +257,10 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-infancia.webp" alt="" /></a>
+							<a href="heridas.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-infancia.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.php">Heridas emocionales <br>de la infancia</a></h5>
+							<h5><a href="heridas.php">Heridas emocionales <br>de la infancia</a></h5>
 							<ul class="post-info">
 								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
 								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
@@ -273,10 +273,10 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-promesas.webp" alt="" /></a>
+							<a href="ofertas-promesas.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-promesas.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.php">Pedido de ofertas <br>y promesas</a></h5>
+							<h5><a href="ofertas-promesas.php">Pedido de ofertas <br>y promesas</a></h5>
 							<ul class="post-info">
 								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
 								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
@@ -289,10 +289,10 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-transformacion.webp" alt="" /></a>
+							<a href="transformacion.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-transformacion.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.php">El camino de <br>la transformación</a></h5>
+							<h5><a href="transformacion.php">El camino de <br>la transformación</a></h5>
 							<ul class="post-info">
 								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
 								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
@@ -305,10 +305,10 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-culpa.webp" alt="" /></a>
+							<a href="culpa.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-culpa.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.php">Por mi gran <br>culpa</a></h5>
+							<h5><a href="culpa.php">Por mi gran <br>culpa</a></h5>
 							<ul class="post-info">
 								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
 								<li><span class="icon flaticon-clock"></span>90 Minutos</li>

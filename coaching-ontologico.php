@@ -135,7 +135,7 @@
 	<!-- END sidebar widget item -->
 	
 	<!-- Page Title Section -->
-	<section class="page-title" style="background-image: url(assets/images/background/2.webp)">
+	<section class="page-title" style="background-image: url(assets/images/background/bg-ontologico.webp)">
 		<div class="auto-container">
 			<div class="content">
 				<div class="text">Laura Rudi</div>
@@ -234,7 +234,13 @@
 							<!-- End Main Image -->
 						</div>
 					</div>
-				</div>				
+				</div>		
+				<div class="button-box text-center">
+                    <a href="contact.php" class="theme-btn btn-style-two"
+                      ><span class="txt">¡Charlemos!</span></a
+                    >
+                  </div>
+                </div>		
 				<p>Al cambiar nuestra interpretación de los hechos, ganamos libertad para tomar nuevas acciones, logrando una transformación auténtica y duradera.</p>
 				<h6>PASOS DEL PROCESO DE COACHING</h6>
 				<!-- Steps Outer -->
