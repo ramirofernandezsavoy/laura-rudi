@@ -372,7 +372,7 @@
                   
                 >
                   <div class="button-box">
-                    <a href="#" class="theme-btn btn-style-two"
+                    <a href="./talleres.php" class="theme-btn btn-style-two"
                       ><span class="txt">Conocé más</span></a
                     >
                   </div>
@@ -966,7 +966,7 @@
               <div class="inner-box transition-300ms">
                 <div class="icon transition-500ms flaticon-briefcase-3"></div>
                 <div class="step">Laboral</div>
-                <h4><a href="#">Coaching de <br> grupos de trabajo</a></h4>
+                <h4><a href="#">Coaching para <br> equipos de trabajo</a></h4>
                 <div class="text">
                   Soluciones efectivas para equipos que buscan superar obstáculos y mejorar su rendimiento.
                 </div>

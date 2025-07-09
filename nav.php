@@ -30,10 +30,10 @@
                     <li class="dropdown">
                       <a href="#">Servicios</a>
                       <ul>
-                        <li><a href="/coaching-ontologico.php">Coaching Ontológico</a></li>
+                        <li><a href="./coaching-ontologico.php">Coaching Ontológico</a></li>
                         
                         <li>
-                          <a href="/coaching-deportivo.php">Coaching Deportivo</a>
+                          <a href="./coaching-deportivo.php">Coaching Deportivo</a>
                         </li>                                                
                       </ul>
                     </li>

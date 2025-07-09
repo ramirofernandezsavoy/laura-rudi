@@ -63,13 +63,7 @@
                             >Castelar, <br />
                             Buenos Aires, ARG</a
                           >
-                        </li>
-                        <li>
-                          <span>Tel</span
-                          ><a href="#"
-                            >11-6704-820X</a
-                          >
-                        </li>
+                        </li>                     
                       </ul>
                     </div>
                   </div>

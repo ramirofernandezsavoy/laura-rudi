@@ -154,8 +154,8 @@
 									<!-- Tab / Active Tab -->
 									<div class="tab active-tab" id="prod-overview">
 										<div class="content">
-											<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet maxime cupiditate, delectus ex molestias quis tempora consequatur quo amet.</p>
-											<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magni autem est consectetur tenetur, totam voluptatem at vel earum nemo delectus officiis necessitatibus. Beatae tempore adipisci nobis temporibus cum quos facere?</p>
+											<p>¿Sabías que muchas veces confundimos poder con control? En este taller explorarás la diferencia entre ambos conceptos y cómo aplicarlos de manera efectiva en tu vida diaria.</p>
+											<p>Aprenderás a tomar decisiones desde un lugar de empoderamiento, manejar tus emociones frente a situaciones desafiantes y soltar el control innecesario para enfocarte en lo realmente importante. Una oportunidad para reconectar con tu fuerza interior y vivir con más claridad y balance.</p>
 											
 											<!-- Requirement Box -->
 											<div class="requirement">
@@ -165,24 +165,16 @@
 													<!-- Required Column -->
 													<div class="required-column col-lg-4 col-md-6 col-sm-12">
 														<div class="required-inner">
-															<div class="required-text">Lápiz y papel</div>
+															<div class="required-text">Lápiz / Lapicera</div>
 														</div>
 													</div>
 													
 													<!-- Required Column -->
 													<div class="required-column col-lg-4 col-md-6 col-sm-12">
 														<div class="required-inner">
-															<div class="required-text">Lápiz y papel</div>
+															<div class="required-text">Papel</div>
 														</div>
 													</div>
-
-													<!-- Required Column -->
-													<div class="required-column col-lg-4 col-md-6 col-sm-12">
-														<div class="required-inner">
-															<div class="required-text">Lápiz y papel</div>
-														</div>
-													</div>
-													
 												</div>
 											</div>
 											<!-- End Requirement Box -->
@@ -192,7 +184,7 @@
 												<h4>Audiencia ideal</h4>
 												<ul class="target-list">
 													<li>Individuos</li>
-													<li>Grupos pequeños</li>
+													<li>Grupos</li>
 												</ul>
 											</div>
 											<!-- End Target Box -->
@@ -225,13 +217,12 @@
 												
 												<!-- Block -->
 												<li class="accordion block">
-													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Primera parte</div>
+													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Diferencia entre poder y control</div>
 													<div class="acc-content">
 														<div class="content">
 															<ul class="accordion-list">
-																<li>Tema 1 <a class="lightbox-image list-icon fa fa-play" href="https://www.youtube.com/watch?v=kxPCFljwJws"></a></li>
-																<li>Tema 2 <span class="list-icon fa fa-lock"></span></li>
-																<li>Tema 3 <span class="list-icon fa fa-lock"></span></li>
+																<li><p>Define ambos conceptos y comprende cómo impactan tus relaciones y decisiones diarias.
+																</p></li>																
 															</ul>
 														</div>
 													</div>
@@ -239,13 +230,12 @@
 												
 													<!-- Block -->
 													<li class="accordion block">
-														<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Segunda parte</div>
+														<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>El equilibrio emocional en el poder</div>
 														<div class="acc-content">
 															<div class="content">
 																<ul class="accordion-list">
-																	<li>Tema 1 <a class="lightbox-image list-icon fa fa-play" href="https://www.youtube.com/watch?v=kxPCFljwJws"></a></li>
-																	<li>Tema 2 <span class="list-icon fa fa-lock"></span></li>
-																	<li>Tema 3 <span class="list-icon fa fa-lock"></span></li>
+																	<li><p>Aprende a gestionar emociones para ejercer tu poder personal sin caer en el control excesivo.</p></li>
+																	
 																</ul>
 															</div>
 														</div>
@@ -253,13 +243,12 @@
 
 														<!-- Block -->
 												<li class="accordion block">
-													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Tercera parte</div>
+													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Herramientas para liderar desde el empoderamiento</div>
 													<div class="acc-content">
 														<div class="content">
-															<ul class="accordion-list">
-																<li>Tema 1 <a class="lightbox-image list-icon fa fa-play" href="https://www.youtube.com/watch?v=kxPCFljwJws"></a></li>
-																<li>Tema 2 <span class="list-icon fa fa-lock"></span></li>
-																<li>Tema 3 <span class="list-icon fa fa-lock"></span></li>
+														<ul class="accordion-list">
+																<li><p>Técnicas prácticas para influir positivamente en tu entorno manteniendo autenticidad y confianza.
+																</p></li>																
 															</ul>
 														</div>
 													</div>
@@ -283,8 +272,8 @@
 													<div class="comment">
 														<div class="author-thumb"><img src="assets/images/resource/user1.jpg" alt=""></div>
 														<div class="comment-info clearfix">
-															<strong>Miguel Reverendo</strong>
-															<div class="comment-time">21 de Julio, 2024</div>
+															<strong>Sofía Pereyra (29)</strong>
+															<div class="comment-time">11 de Junio, 2024</div>
 															<div class="rating">
 																<span class="fa fa-star"></span>
 																<span class="fa fa-star"></span>
@@ -293,7 +282,7 @@
 																<span class="fa fa-star"></span>
 															</div>
 														</div>
-														<div class="text">Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum a quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabocopytyping.</div>														
+														<div class="text">Este taller me abrió los ojos. Aprendí a dejar de intentar controlar todo y concentrarme en lo que sí puedo manejar.</div>														
 													</div>
 												</div>
 												
@@ -301,8 +290,8 @@
 													<div class="comment">
 														<div class="author-thumb"><img src="assets/images/resource/user2.jpg" alt=""></div>
 														<div class="comment-info clearfix">
-															<strong>Marcelo Tirado</strong>
-															<div class="comment-time">6 de Julio, 2024</div>
+															<strong>Federico Torres (37)</strong>
+															<div class="comment-time">16 de Abril, 2024</div>
 															<div class="rating">
 																<span class="fa fa-star"></span>
 																<span class="fa fa-star"></span>
@@ -311,7 +300,7 @@
 																<span class="fa fa-star"></span>
 															</div>
 														</div>
-														<div class="text">Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum a quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabocopytyping mean refreshing que porro espanio.</div>														
+														<div class="text">Muy práctico y reflexivo. Me ayudó a mejorar mi liderazgo en el trabajo y a tener relaciones más sanas.</div>														
 													</div>
 												</div>
 												
@@ -335,11 +324,12 @@
 						<div class="video-intro-widget">
 							<!-- Video Box -->
 							<div class="intro-video" style="background-image: url(assets/images/resource/thumbnail-talleres.jpg)">
-								<a href="https://www.youtube.com/watch?v=6WeFbSTsus8&t=210s" class="lightbox-image intro-video-box"><span class="fa fa-play"><i class="ripple"></i></span></a>
+								<!-- LINK PARA VIDEO INTRODUCTORIO -->
+								<!-- <a href="https://www.youtube.com/watch?v=6WeFbSTsus8&t=210s" class="lightbox-image intro-video-box"><span class="fa fa-play"><i class="ripple"></i></span></a> -->
 							</div>
 							<div class="lower-content">								
 								<ul class="intro-list">
-									<li><span class="icon fa fa-link"></span><strong>Nivel</strong><i>Introductorio</i></li>
+									<li><span class="icon fa fa-link"></span><strong>Público</strong><i>General</i></li>
 									<li><span class="icon fa fa-clock-o"></span><strong>Duración</strong><i>90 minutos</i></li>									
 									<li><span class="icon fa fa-book"></span><strong>Temática</strong><i>Poder y Control</i></li>
 									<li><span class="icon fa fa-money"></span><strong>Idioma</strong><i>Español</i></li>
@@ -352,9 +342,7 @@
 								<!-- End Buttons Box -->
 								
 								<!-- Social Box -->
-								<ul class="social-box">
-									<li><a href="https://www.facebook.com/" class="fa fa-facebook-f"></a></li>
-									<li><a href="https://www.twitter.com/" class="fa fa-twitter"></a></li>									
+								<ul class="social-box">									
 									<li><a href="https://www.instagram.com/" class="fa fa-instagram"></a></li>
 									<li><a href="https://youtube.com/" class="fa fa-youtube-play"></a></li>
 								</ul>

@@ -31,126 +31,20 @@
  	
  	<!-- Header Style One -->
     <header class="main-header">
-    	
-		<!-- Header Top -->
-        <div class="header-top">
-            <div class="auto-container">
-                <div class="inner-container clearfix">
-					<!-- Top Left -->
-					<div class="top-left clearfix">
-						<div class="text"><span>Working time:</span> Monday to Friday 9 AM - 5 PM</div>
-					</div>
-					
-					<!-- Top Right -->
-                    <div class="top-right pull-right clearfix">
-						<!-- Social Box -->
-						<ul class="social-box">
-							<li><a href="https://www.facebook.com/" class="fa fa-facebook-f"></a></li>
-							<li><a href="https://www.twitter.com/" class="fa fa-twitter"></a></li>
-							<li><a href="https://www.behance.com/" class="fa fa-behance"></a></li>
-							<li><a href="https://www.linkedin.com/" class="fa fa-linkedin"></a></li>
-							<li><a href="https://youtube.com/" class="fa fa-youtube-play"></a></li>
-						</ul>
-						<div class="text">Call for free consultation: <a href="tel:+0056-693-55-20">0056 693 55 20</a></div>
-                    </div>
-					
-                </div>
-            </div>
-        </div>
-		
 		<!-- Header Lower -->
         <div class="header-lower">
         	<div class="auto-container clearfix">
             	
 				<!-- Logo Box -->
 				<div class="pull-left logo-box">
-					<div class="logo"><a href="index.html"><img src="assets/images/logo.png" alt="" title=""></a></div>
+					<div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt="" title=""></a></div>
 				</div>
 				
+				
 				<!-- Nav Outer -->
-				<div class="nav-outer clearfix">
-					<!-- Mobile Navigation Toggler -->
-					<div class="mobile-nav-toggler"><span class="icon flaticon-menu-1"></span></div>
-					<!-- Main Menu -->
-					<nav class="main-menu navbar-expand-md">
-						<div class="navbar-header">
-							<!-- Toggle Button -->    	
-							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-							</button>
-						</div>
-						
-						<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
-							<ul class="navigation clearfix">
-								<li class="dropdown"><a href="#">Home</a>
-									<ul>
-										<li><a href="index.html">Homepage One</a></li>
-										<li><a href="index-2.html">Homepage Two</a></li>
-										<li><a href="index-3.html">Homepage Three</a></li>
-										<li class="dropdown"><a href="#">Header Styles</a>
-											<ul>
-												<li><a href="index.html">Header Style One</a></li>
-												<li><a href="index-2.html">Header Style Two</a></li>
-												<li><a href="index-3.html">Header Style Three</a></li>
-											</ul>
-										</li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">About</a>
-									<ul>
-										<li><a href="about.html">About us</a></li>
-										<li><a href="faq.html">Faq's</a></li>
-										<li><a href="price.html">Price</a></li>
-										<li class="dropdown"><a href="#">Our Team</a>
-											<ul>
-												<li><a href="mentors.html">Team</a></li>
-												<li><a href="mentor-detail.html">Team Detail</a></li>
-											</ul>
-										</li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Services</a>
-									<ul>
-										<li><a href="services.html">Services</a></li>
-										<li><a href="service-detail.html">Services Detail</a></li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Projects</a>
-									<ul>
-										<li><a href="portfolio.html">Projects</a></li>
-										<li><a href="portfolio-detail.html">Projects Detail</a></li>
-									</ul>
-								</li>
-								<li class="current dropdown"><a href="#">Courses</a>
-									<ul>
-										<li><a href="courses.html">Courses</a></li>
-										<li><a href="course-detail.html">Courses Detail</a></li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Blog</a>
-									<ul>
-										<li><a href="blog.html">Our Blog</a></li>
-										<li><a href="blog-detail.html">Blog Detail</a></li>
-									</ul>
-								</li>
-								<li><a href="contact.html">Contact</a></li>
-							</ul>
-						</div>
-					</nav>
-					
-					<!-- Main Menu End-->
-					<div class="outer-box clearfix">
-						
-						<!-- Search Btn -->
-						<div class="search-box-btn transition-300ms"><span class="icon fa fa-search"></span></div>
-						
-						<!-- Nav Btn -->
-						<div class="nav-btn navSidebar-button transition-300ms"><span class="icon flaticon-menu-1"></span></div>
-							
-					</div>
-				</div>
+				<?php
+            include("./nav.php")
+            ?>
 				
             </div>
         </div>
@@ -161,7 +55,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index.html" title=""><img src="assets/images/logo-small.png" alt="" title=""></a>
+                    <a href="index.php" title=""><img src="assets/images/logo-small-black.png" alt="" title=""></a>
                 </div>
                 <!--Right Col-->
                 <div class="pull-right">
@@ -185,7 +79,7 @@
             <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-small.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo-small-black.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
             </nav>
         </div><!-- End Mobile Menu -->
@@ -209,12 +103,12 @@
 					<div class="sidebar-info-contents">
 						<div class="content-inner">
 							<div class="logo">
-								<a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+								<a href="index.php"><img src="assets/images/logo.png" alt="" /></a>
 							</div>
 							<div class="content-box">
 								<h4>About Us</h4>
 								<p class="text">I am glad that you have made it here to send a distress signal, and inform the Senate that all on board killed. Dantooine. I’m not going to Alderaan. I really got to go. But that to me.</p>
-								<a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Consultation</span></a>
+								<a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Consultation</span></a>
 							</div>
 							<div class="contact-info">
 								<h4>Contact Info</h4>
@@ -242,16 +136,15 @@
 	<!-- END sidebar widget item -->
 	
 	<!-- Page Title Section -->
-	<section class="page-title" style="background-image: url(assets/images/background/2.jpg)">
+	<section class="page-title" style="background-image: url(assets/images/resource/coaching-deportivo-image2.jpg); background-size: cover;">
 		<div class="auto-container">
-			<div class="content">
-				<div class="text">Welcome to our company</div>
-				<h1>Popular Courses</h1>
+			<div class="content">				
+				<h1>Talleres temáticos</h1>
 			</div>
 			<div class="breadcrumb-outer">
 				<ul class="page-breadcrumb">
-					<li><a href="index.html">Home</a></li>
-					<li>Popular Courses</li>
+					<li><a href="index.php">Inicio</a></li>
+					<li>Mis talleres</li>
 				</ul>
 			</div>
 		</div>
@@ -262,53 +155,35 @@
 	<section class="courses-page-section">
 		<div class="auto-container">
 			
-			<!-- Order Box -->
-			<div class="order-box">
-				<div class="clearfix">
-					<div class="pull-left">
-						<div class="text">Showing 1-6 of 14 results</div>
-					</div>
-					<div class="pull-right clearfix">
-					
-						<!-- Search -->
-                        <div class="order-search-box">
-                        	<form method="post" action="contact.html">
-                                <div class="form-group">
-                                    <input type="search" name="search-field" value="" placeholder="Search here..." required>
-                                    <button type="submit"><span class="icon fa fa-search"></span></button>
-                                </div>
-                            </form>
-						</div>
-						
-						<!-- Search Dropdown -->
-						<div class="search-dropdown form-group">
-							<select name="country" class="custom-select-box">
-								<option>Select Order</option>
-								<option>Order 01</option>
-								<option>Order 02</option>
-								<option>Order 03</option>
-								<option>Order 04</option>
-							</select>
-						</div>
-						
-					</div>
-				</div>
-			</div>
-			<!-- End Order Box -->
-			
 			<div class="row clearfix">
 			
 				<!-- Course Block -->
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-5.jpg" alt="" /></a>
+							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-autoconfianza.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
+							<h5><a href="course-detail.php">Como construir autoconfianza</a></h5>
 							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
+								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
+								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<!-- Course Block -->
+				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+					<div class="inner-box">
+						<div class="image">
+							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-poder.webp" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<h5><a href="course-detail.php">Poder y <br> control</a></h5>
+							<ul class="post-info">
+								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
+								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
 							</ul>
 						</div>
 					</div>
@@ -318,13 +193,77 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-6.jpg" alt="" /></a>
+							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-ansiedad.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
+							<h5><a href="course-detail.php">Piedra libre a <br>la ansiedad</a></h5>
 							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
+								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
+								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<!-- Course Block -->
+				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+					<div class="inner-box">
+						<div class="image">
+							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-tristeza.webp" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<h5><a href="course-detail.php">De la tristeza a <br>la alegría</a></h5>
+							<ul class="post-info">
+								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
+								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<!-- Course Block -->
+				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+					<div class="inner-box">
+						<div class="image">
+							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-enojo.webp" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<h5><a href="course-detail.php">El enojo <br>inteligente</a></h5>
+							<ul class="post-info">
+								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
+								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<!-- Course Block -->
+				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+					<div class="inner-box">
+						<div class="image">
+							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-aprendizaje.webp" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<h5><a href="course-detail.php">El camino del <br>aprendizaje</a></h5>
+							<ul class="post-info">
+								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
+								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<!-- Course Block -->
+				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+					<div class="inner-box">
+						<div class="image">
+							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-infancia.webp" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<h5><a href="course-detail.php">Heridas emocionales <br>de la infancia</a></h5>
+							<ul class="post-info">
+								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
+								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
 							</ul>
 						</div>
 					</div>
@@ -334,225 +273,51 @@
 				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-7.jpg" alt="" /></a>
+							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-promesas.webp" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
+							<h5><a href="course-detail.php">Pedido de ofertas <br>y promesas</a></h5>
 							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
+								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
+								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<!-- Course Block -->
+				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+					<div class="inner-box">
+						<div class="image">
+							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-transformacion.webp" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<h5><a href="course-detail.php">El camino de <br>la transformación</a></h5>
+							<ul class="post-info">
+								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
+								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<!-- Course Block -->
+				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
+					<div class="inner-box">
+						<div class="image">
+							<a href="course-detail.php"><img class="transition-500ms" style="height: 200px; width: 300px; object-fit: cover;" src="assets/images/resource/service-culpa.webp" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<h5><a href="course-detail.php">Por mi gran <br>culpa</a></h5>
+							<ul class="post-info">
+								<li><span class="icon flaticon-book-1"></span>Ontológico</li>
+								<li><span class="icon flaticon-clock"></span>90 Minutos</li>
 							</ul>
 						</div>
 					</div>
 				</div>
 				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-8.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
 				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-9.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-10.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-11.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-12.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-13.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-14.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-15.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-16.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-17.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-18.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-19.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Block -->
-				<div class="course-block col-xl-3 col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box">
-						<div class="image">
-							<a href="course-detail.html"><img class="transition-500ms" src="assets/images/resource/course-20.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h5><a href="course-detail.html">How to success through market segmentation</a></h5>
-							<ul class="post-info">
-								<li><span class="icon flaticon-book-1"></span>3 Chapter</li>
-								<li><span class="icon flaticon-trophy"></span>10 Lessons</li>
-							</ul>
-						</div>
-					</div>
-				</div>
 				
 			</div>
 		</div>
@@ -571,7 +336,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-cancel-1"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="blog.html">
+	<form method="post" action="blog.php">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

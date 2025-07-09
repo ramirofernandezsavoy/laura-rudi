@@ -31,126 +31,19 @@
  	
  	<!-- Header Style One -->
     <header class="main-header">
-    	
-		<!-- Header Top -->
-        <div class="header-top">
-            <div class="auto-container">
-                <div class="inner-container clearfix">
-					<!-- Top Left -->
-					<div class="top-left clearfix">
-						<div class="text"><span>Working time:</span> Monday to Friday 9 AM - 5 PM</div>
-					</div>
-					
-					<!-- Top Right -->
-                    <div class="top-right pull-right clearfix">
-						<!-- Social Box -->
-						<ul class="social-box">
-							<li><a href="https://www.facebook.com/" class="fa fa-facebook-f"></a></li>
-							<li><a href="https://www.twitter.com/" class="fa fa-twitter"></a></li>
-							<li><a href="https://www.behance.com/" class="fa fa-behance"></a></li>
-							<li><a href="https://www.linkedin.com/" class="fa fa-linkedin"></a></li>
-							<li><a href="https://youtube.com/" class="fa fa-youtube-play"></a></li>
-						</ul>
-						<div class="text">Call for free consultation: <a href="tel:+0056-693-55-20">0056 693 55 20</a></div>
-                    </div>
-					
-                </div>
-            </div>
-        </div>
-		
 		<!-- Header Lower -->
         <div class="header-lower">
         	<div class="auto-container clearfix">
             	
 				<!-- Logo Box -->
 				<div class="pull-left logo-box">
-					<div class="logo"><a href="index.html"><img src="assets/images/logo.png" alt="" title=""></a></div>
-				</div>
+					<div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt="" title=""></a></div>
+				</div>			
 				
-				<!-- Nav Outer -->
-				<div class="nav-outer clearfix">
-					<!-- Mobile Navigation Toggler -->
-					<div class="mobile-nav-toggler"><span class="icon flaticon-menu-1"></span></div>
-					<!-- Main Menu -->
-					<nav class="main-menu navbar-expand-md">
-						<div class="navbar-header">
-							<!-- Toggle Button -->    	
-							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-							</button>
-						</div>
-						
-						<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
-							<ul class="navigation clearfix">
-								<li class="dropdown"><a href="#">Home</a>
-									<ul>
-										<li><a href="index.html">Homepage One</a></li>
-										<li><a href="index-2.html">Homepage Two</a></li>
-										<li><a href="index-3.html">Homepage Three</a></li>
-										<li class="dropdown"><a href="#">Header Styles</a>
-											<ul>
-												<li><a href="index.html">Header Style One</a></li>
-												<li><a href="index-2.html">Header Style Two</a></li>
-												<li><a href="index-3.html">Header Style Three</a></li>
-											</ul>
-										</li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">About</a>
-									<ul>
-										<li><a href="about.html">About us</a></li>
-										<li><a href="faq.html">Faq's</a></li>
-										<li><a href="price.html">Price</a></li>
-										<li class="dropdown"><a href="#">Our Team</a>
-											<ul>
-												<li><a href="mentors.html">Team</a></li>
-												<li><a href="mentor-detail.html">Team Detail</a></li>
-											</ul>
-										</li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Services</a>
-									<ul>
-										<li><a href="services.html">Services</a></li>
-										<li><a href="service-detail.html">Services Detail</a></li>
-									</ul>
-								</li>
-								<li class="current dropdown"><a href="#">Projects</a>
-									<ul>
-										<li><a href="portfolio.html">Projects</a></li>
-										<li><a href="portfolio-detail.html">Projects Detail</a></li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Courses</a>
-									<ul>
-										<li><a href="courses.html">Courses</a></li>
-										<li><a href="course-detail.html">Courses Detail</a></li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Blog</a>
-									<ul>
-										<li><a href="blog.html">Our Blog</a></li>
-										<li><a href="blog-detail.html">Blog Detail</a></li>
-									</ul>
-								</li>
-								<li><a href="contact.html">Contact</a></li>
-							</ul>
-						</div>
-					</nav>
-					
-					<!-- Main Menu End-->
-					<div class="outer-box clearfix">
-						
-						<!-- Search Btn -->
-						<div class="search-box-btn transition-300ms"><span class="icon fa fa-search"></span></div>
-						
-						<!-- Nav Btn -->
-						<div class="nav-btn navSidebar-button transition-300ms"><span class="icon flaticon-menu-1"></span></div>
-							
-					</div>
-				</div>
+				 <!-- Nav Outer -->
+				 <?php
+            			include("./nav.php")
+            		?>
 				
             </div>
         </div>
@@ -161,7 +54,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index.html" title=""><img src="assets/images/logo-small.png" alt="" title=""></a>
+                    <a href="index.php" title=""><img src="assets/images/logo-small.png" alt="" title=""></a>
                 </div>
                 <!--Right Col-->
                 <div class="pull-right">
@@ -343,7 +236,7 @@
 					</div>
 				</div>				
 				<p>Al cambiar nuestra interpretación de los hechos, ganamos libertad para tomar nuevas acciones, logrando una transformación auténtica y duradera.</p>
-				<h6>EL PROCESO O LOS PASOS EN EL COACHING</h6>
+				<h6>PASOS DEL PROCESO DE COACHING</h6>
 				<!-- Steps Outer -->
 				<div class="steps-outer">
 					<div class="row clearfix">
@@ -354,7 +247,7 @@
 								<div class="step-content">
 									<span class="number">01</span>
 									<h5>Autodiagnóstico y objetivos</h5>
-									<div class="step-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</div>
+									<div class="step-text">Identificación del camino y los objetivos a lograr de forma realista.</div>
 								</div>
 							</div>
 						</div>
@@ -365,7 +258,7 @@
 								<div class="step-content">
 									<span class="number">02</span>
 									<h5>Planificación e intervención</h5>
-									<div class="step-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</div>
+									<div class="step-text">Plan de acción para identificar motivaciones y el desarrollo de buenos hábitos.</div>
 								</div>
 							</div>
 						</div>
@@ -376,7 +269,7 @@
 								<div class="step-content">
 									<span class="number">03</span>
 									<h5>Evaluación del proceso y desarrollo</h5>
-									<div class="step-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</div>
+									<div class="step-text">Interpretación de las interacciones con el entorno y los resultados obtenidos.</div>
 								</div>
 							</div>
 						</div>

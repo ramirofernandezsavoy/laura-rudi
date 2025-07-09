@@ -262,7 +262,7 @@
 				<div class="image-column col-lg-6 col-md-12 col-sm-12">
 					<div class="inner-column wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image titlt" data-tilt data-tilt-max="3">
-							<img src="assets/images/resource/coach.jpg" alt="" />
+							<img src="assets/images/resource/coaching-grupal.jpg" alt="" />
 						</div>
 					</div>
 				</div>
