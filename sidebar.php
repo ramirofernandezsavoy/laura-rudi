@@ -30,10 +30,7 @@
                       <li>
                         <span class="icon fa fa-location-arrow"></span>Castelar,
                         Buenos Aires, ARG
-                      </li>
-                      <li>
-                        <span class="icon fa fa-phone"></span>(+54) 11-6704820X
-                      </li>
+                      </li>                     
                       <li>
                         <span class="icon fa fa-envelope"></span>laurarudicoach@gmail.com
                       </li>

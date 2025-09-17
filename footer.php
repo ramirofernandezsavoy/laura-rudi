@@ -63,14 +63,7 @@
                             >Castelar, <br />
                             Buenos Aires, ARG</p
                           >
-                        </li>  <li>
-                          <span>Teléfono</span
-                          >
-                            <a
-                              href="tel:+54123456789"
-                              >+(54) 11-3456-5789 </a
-                            >
-                          </li>
+                        </li>  
                       </ul>
                     </div>
                   </div>
