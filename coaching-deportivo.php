@@ -94,65 +94,18 @@
 		<!-- End Main Header -->
 
 		<!-- Sidebar Cart Item -->
-		<div class="xs-sidebar-group info-group">
-			<div class="xs-overlay xs-bg-black"></div>
-			<div class="xs-sidebar-widget">
-				<div class="sidebar-widget-container">
-					<div class="widget-heading">
-						<a href="#" class="close-side-widget">
-							X
-						</a>
-					</div>
-					<div class="sidebar-textwidget">
-
-						<!-- Sidebar Info Content -->
-						<div class="sidebar-info-contents">
-							<div class="content-inner">
-								<div class="logo">
-									<a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
-								</div>
-								<div class="content-box">
-									<h4>About Us</h4>
-									<p class="text">I am glad that you have made it here to send a distress signal, and
-										inform the Senate that all on board killed. Dantooine. I’m not going to
-										Alderaan. I really got to go. But that to me.</p>
-									<a href="contact.html" class="theme-btn btn-style-one"><span
-											class="txt">Consultation</span></a>
-								</div>
-								<div class="contact-info">
-									<h4>Contact Info</h4>
-									<ul class="list-style-one">
-										<li><span class="icon fa fa-location-arrow"></span>Chicago 12, Melborne City,
-											USA</li>
-										<li><span class="icon fa fa-phone"></span>(111) 111-111-1111</li>
-										<li><span class="icon fa fa-envelope"></span>avarton@gmail.com</li>
-										<li><span class="icon fa fa-clock-o"></span>Week Days: 09.00 to 18.00 Sunday:
-											Closed</li>
-									</ul>
-								</div>
-								<!-- Social Box -->
-								<ul class="social-box">
-									<li><a href="https://www.facebook.com/" class="fa fa-facebook-f"></a></li>
-									<li><a href="https://www.twitter.com/" class="fa fa-twitter"></a></li>
-									<li><a href="https://www.linkedin.com/" class="fa fa-linkedin"></a></li>
-									<li><a href="https://youtube.com/" class="fa fa-youtube-play"></a></li>
-								</ul>
-							</div>
-						</div>
-
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- END sidebar widget item -->
+      <?php
+            include("./sidebar.php")
+            ?>
+      <!-- END sidebar widget item -->
 
 		<!-- Page Title Section -->
-		<section class="page-title" style="background-image: url(assets/images/background/bg-deportivo.webp)">
+		<section class="page-title" style="background-image: url(assets/images/background/bg-deportivo.webp); background-size: cover; background-position: center center;">
 			<div class="auto-container">
-				<div class="content">
-					<div class="text">Laura Rudi</div>
-					<h1>Coaching Deportivo</h1>
-				</div>
+				<div class="content">				
+				<h1>Coaching Deportivo</h1>
+				<div class="text" style="margin-top: 20px;">Potenciá tu rendimiento y alcanzá tus metas deportivas.<br />Desarrolla la mentalidad ganadora que necesitás.</div>
+			</div>
 				<div class="breadcrumb-outer">
 					<ul class="page-breadcrumb">
 						<li>Coaching Deportivo</li>

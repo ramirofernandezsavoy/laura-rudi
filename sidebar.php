@@ -20,7 +20,7 @@
                       Mi nombre es Laura y soy Coach hace 5 años. Acompaño a personas, equipos y familias en procesos de transformación personal y relacional. Creo en el poder de la escucha, la palabra y el compromiso como herramientas para el cambio.
                       Te invito a redescubrir tus posibilidades y construir desde el presente el futuro que querés vivir.
                     </p>
-                    <a href="contact.html" class="theme-btn btn-style-one"
+                    <a href="contact.php" class="theme-btn btn-style-one"
                       ><span class="txt">Contacto</span></a
                     >
                   </div>

@@ -144,8 +144,6 @@
 								<!--Tab Btns-->
 								<ul class="tab-btns tab-buttons clearfix">
 									<li data-tab="#prod-overview" class="tab-btn active-btn">Descripción</li>
-									<li data-tab="#prod-curriculum" class="tab-btn">Contenido</li>
-									<li data-tab="#prod-reviews" class="tab-btn">Opiniones</li>
 								</ul>
 								
 								<!--Tabs Container-->
@@ -157,154 +155,15 @@
 											<p>¿Sabías que muchas veces confundimos poder con control? En este taller explorarás la diferencia entre ambos conceptos y cómo aplicarlos de manera efectiva en tu vida diaria.</p>
 											<p>Aprenderás a tomar decisiones desde un lugar de empoderamiento, manejar tus emociones frente a situaciones desafiantes y soltar el control innecesario para enfocarte en lo realmente importante. Una oportunidad para reconectar con tu fuerza interior y vivir con más claridad y balance.</p>
 											
-											<!-- Requirement Box -->
-											<div class="requirement">
-												<h4>Requiere</h4>
-												<div class="row clearfix">
-													
-													<!-- Required Column -->
-													<div class="required-column col-lg-4 col-md-6 col-sm-12">
-														<div class="required-inner">
-															<div class="required-text">Lápiz / Lapicera</div>
-														</div>
-													</div>
-													
-													<!-- Required Column -->
-													<div class="required-column col-lg-4 col-md-6 col-sm-12">
-														<div class="required-inner">
-															<div class="required-text">Papel</div>
-														</div>
-													</div>
-												</div>
-											</div>
-											<!-- End Requirement Box -->
-											
 											<!-- Target Box -->
 											<div class="target-box">
 												<h4>Audiencia ideal</h4>
 												<ul class="target-list">
-													<li>Individuos</li>
+													<li>Individuos</li>													
 													<li>Grupos</li>
 												</ul>
 											</div>
 											<!-- End Target Box -->
-											
-										</div>
-									</div>
-									
-									<!-- Tab -->
-									<div class="tab" id="prod-curriculum">
-										<div class="content">
-											
-											<!-- Curriculum Box -->
-											<div class="curriculum-box">
-												<div class="clearfix">
-													<div class="pull-left">
-														<h4>Contenido</h4>
-													</div>
-													<div class="pull-right">
-														<ul class="lessons">
-															<li><span class="icon fa fa-book"></span>Charla grupal</li>
-															<li><span class="icon fa fa-clock-o"></span>1h 30m</li>
-														</ul>
-													</div>
-												</div>
-											</div>
-											<!-- End Curriculum Box -->
-											
-											<!-- Accordian Box -->
-											<ul class="accordion-box">
-												
-												<!-- Block -->
-												<li class="accordion block">
-													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Diferencia entre poder y control</div>
-													<div class="acc-content">
-														<div class="content">
-															<ul class="accordion-list">
-																<li><p>Define ambos conceptos y comprende cómo impactan tus relaciones y decisiones diarias.
-																</p></li>																
-															</ul>
-														</div>
-													</div>
-												</li>
-												
-													<!-- Block -->
-													<li class="accordion block">
-														<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>El equilibrio emocional en el poder</div>
-														<div class="acc-content">
-															<div class="content">
-																<ul class="accordion-list">
-																	<li><p>Aprende a gestionar emociones para ejercer tu poder personal sin caer en el control excesivo.</p></li>
-																	
-																</ul>
-															</div>
-														</div>
-													</li>
-
-														<!-- Block -->
-												<li class="accordion block">
-													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Herramientas para liderar desde el empoderamiento</div>
-													<div class="acc-content">
-														<div class="content">
-														<ul class="accordion-list">
-																<li><p>Técnicas prácticas para influir positivamente en tu entorno manteniendo autenticidad y confianza.
-																</p></li>																
-															</ul>
-														</div>
-													</div>
-												</li>
-											</ul>
-											<!-- End Accordian Box -->
-										</div>
-									</div>
-									
-									<!-- Tab -->
-									<div class="tab" id="prod-reviews">
-										<div class="content">
-											
-											<!-- Comments Area -->
-											<div class="comments-area">
-												<div class="group-title">
-													<h4>Feedback</h4>
-												</div>
-												
-												<div class="comment-box">
-													<div class="comment">
-														<div class="author-thumb"><img src="assets/images/resource/user1.jpg" alt=""></div>
-														<div class="comment-info clearfix">
-															<strong>Sofía Pereyra (29)</strong>
-															<div class="comment-time">11 de Junio, 2024</div>
-															<div class="rating">
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-															</div>
-														</div>
-														<div class="text">Este taller me abrió los ojos. Aprendí a dejar de intentar controlar todo y concentrarme en lo que sí puedo manejar.</div>														
-													</div>
-												</div>
-												
-												<div class="comment-box">
-													<div class="comment">
-														<div class="author-thumb"><img src="assets/images/resource/user2.jpg" alt=""></div>
-														<div class="comment-info clearfix">
-															<strong>Federico Torres (37)</strong>
-															<div class="comment-time">16 de Abril, 2024</div>
-															<div class="rating">
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-															</div>
-														</div>
-														<div class="text">Muy práctico y reflexivo. Me ayudó a mejorar mi liderazgo en el trabajo y a tener relaciones más sanas.</div>														
-													</div>
-												</div>
-												
-											</div>
 											
 										</div>
 									</div>

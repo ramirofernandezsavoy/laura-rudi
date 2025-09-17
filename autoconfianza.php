@@ -99,10 +99,10 @@
       <!-- End Main Header -->
 	
 	<!-- Sidebar Cart Item -->
-	<?php
+      <?php
             include("./sidebar.php")
             ?>
-	<!-- END sidebar widget item -->
+      <!-- END sidebar widget item -->
 	
 	<!-- Cource Detail Banner Section -->
     <section class="cource-detail-banner-section" style="background-image: url(assets/images/background/talleres.jpg); background-position: 0%;">
@@ -111,7 +111,7 @@
 				<div class="title">Coaching Ontológico</div>
 				<h1>Como construir <br> Autoconfianza</h1>
 				<ul class="course-info">
-					<li>Última actualización 12 Nov. 2023</li>
+					<li>Última actualización 12 Nov. 2024</li>
 					<li><span class="icon fa fa-user"></span>63+ personas ya lo tomaron</li>
 					<li class="rating">
 						<span class="fa fa-star"></span>
@@ -144,8 +144,6 @@
 								<!--Tab Btns-->
 								<ul class="tab-btns tab-buttons clearfix">
 									<li data-tab="#prod-overview" class="tab-btn active-btn">Descripción</li>
-									<li data-tab="#prod-curriculum" class="tab-btn">Contenido</li>
-									<li data-tab="#prod-reviews" class="tab-btn">Opiniones</li>
 								</ul>
 								
 								<!--Tabs Container-->
@@ -157,28 +155,6 @@
 											<p>La autoconfianza es clave para alcanzar nuestras metas y vivir con plenitud. En este taller aprenderás a identificar y desafiar las creencias que limitan tu seguridad personal. A través de dinámicas prácticas y reflexivas, desarrollarás herramientas para enfrentar miedos, tomar decisiones con mayor certeza y proyectar confianza en tu día a día.</p>
 											<p>Un espacio para descubrir tu verdadero potencial y fortalecerte desde adentro hacia afuera.</p>
 											
-											<!-- Requirement Box -->
-											<div class="requirement">
-												<h4>Requiere</h4>
-												<div class="row clearfix">
-													
-													<!-- Required Column -->
-													<div class="required-column col-lg-4 col-md-6 col-sm-12">
-														<div class="required-inner">
-															<div class="required-text">Lápiz</div>
-														</div>
-													</div>
-													
-													<!-- Required Column -->
-													<div class="required-column col-lg-4 col-md-6 col-sm-12">
-														<div class="required-inner">
-															<div class="required-text">Papel</div>
-														</div>
-													</div>
-												</div>
-											</div>
-											<!-- End Requirement Box -->
-											
 											<!-- Target Box -->
 											<div class="target-box">
 												<h4>Audiencia ideal</h4>
@@ -188,120 +164,6 @@
 												</ul>
 											</div>
 											<!-- End Target Box -->
-											
-										</div>
-									</div>
-									
-									<!-- Tab -->
-									<div class="tab" id="prod-curriculum">
-										<div class="content">
-											
-											<!-- Curriculum Box -->
-											<div class="curriculum-box">
-												<div class="clearfix">
-													<div class="pull-left">
-														<h4>Contenido</h4>
-													</div>
-													<div class="pull-right">
-														<ul class="lessons">
-															<li><span class="icon fa fa-book"></span>Charla grupal</li>
-															<li><span class="icon fa fa-clock-o"></span>1h 30m</li>
-														</ul>
-													</div>
-												</div>
-											</div>
-											<!-- End Curriculum Box -->
-											
-											<!-- Accordian Box -->
-											<ul class="accordion-box">
-												
-												<!-- Block -->
-												<li class="accordion block">
-													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>¿Qué es la autoconfianza?</div>
-													<div class="acc-content">
-														<div class="content">
-															<ul class="accordion-list">
-																<li><p>Explora qué significa confiar en ti mismo y cómo se manifiesta en diferentes áreas de la vida.</p></li>																
-															</ul>
-														</div>
-													</div>
-												</li>
-												
-													<!-- Block -->
-													<li class="accordion block">
-														<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Barreras comunes y cómo superarlas</div>
-														<div class="acc-content">
-															<div class="content">
-																<ul class="accordion-list">
-																	<li><p>Identifica los miedos y creencias limitantes que frenan tu confianza y aprende a transformarlos.</p></li>																	
-																</ul>
-															</div>
-														</div>
-													</li>
-
-														<!-- Block -->
-												<li class="accordion block">
-													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Prácticas para reforzar tu seguridad personal</div>
-													<div class="acc-content">
-														<div class="content">
-															<ul class="accordion-list">
-																<li><p>Técnicas simples y aplicables para sentirte seguro y capaz en cualquier situación.</p></li>																
-															</ul>
-														</div>
-													</div>
-												</li>
-											</ul>
-											<!-- End Accordian Box -->
-										</div>
-									</div>
-									
-									<!-- Tab -->
-									<div class="tab" id="prod-reviews">
-										<div class="content">
-											
-											<!-- Comments Area -->
-											<div class="comments-area">
-												<div class="group-title">
-													<h4>Feedback</h4>
-												</div>
-												
-												<div class="comment-box">
-													<div class="comment">
-														<div class="author-thumb"><img src="assets/images/resource/user-w-1.jpg" alt="User picture"></div>
-														<div class="comment-info clearfix">
-															<strong>Carla Gomez (34)</strong>
-															<div class="comment-time">21 de Julio, 2024</div>
-															<div class="rating">
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-															</div>
-														</div>
-														<div class="text">"Este taller me ayudó a cambiar mi percepción de mí misma. Ahora siento que puedo alcanzar cualquier meta."</div>														
-													</div>
-												</div>
-												
-												<div class="comment-box">
-													<div class="comment">
-														<div class="author-thumb"><img src="assets/images/resource/user2.jpg" alt=""></div>
-														<div class="comment-info clearfix">
-															<strong>Marcelo Martin (45)</strong>
-															<div class="comment-time">6 de Julio, 2024</div>
-															<div class="rating">
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-															</div>
-														</div>
-														<div class="text">Me encantaron las herramientas prácticas, especialmente las que puedo aplicar en el trabajo. Lo recomiendo 100%.</div>														
-													</div>
-												</div>
-												
-											</div>
 											
 										</div>
 									</div>

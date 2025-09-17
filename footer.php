@@ -20,8 +20,10 @@
                     </div>
                   </div>
 
+               
+
                   <!-- Footer Column -->
-                  <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                  <div class="big-column footer-column col-lg-6 col-md-6 col-sm-12">
                     <div class="footer-widget links-widget">
                       <h5>Sitio</h5>
                       <div class="row clearfix">
@@ -74,30 +76,7 @@
                   </div>
 
                   <!-- Footer Column -->
-                  <div class="footer-column col-lg-6 col-md-6 col-sm-12">
-                    <div class="footer-widget newsletter-widget">
-                      <h5>Boletín de Noticias</h5>
-                      <!-- Newsletter Form -->
-                      <div class="newsletter-form">
-                        <form method="post" action="contact.php">
-                          <div class="form-group">
-                            <span class="icon flaticon-email"></span>
-                            <input
-                              type="email"
-                              name="search-field"
-                              value=""
-                              placeholder="Dirección de email"
-                              required
-                            />
-                            <button type="submit" class="theme-btn submit-btn">
-                              Suscribite a mi boletín<span
-                                class="arrow flaticon-right-arrow-1"
-                              ></span>
-                            </button>
-                          </div>
-                        </form>
-                      </div>
-                    </div>
+                  <div class="footer-column col-lg-6 col-md-6 col-sm-12">                    
                   </div>
                 </div>
               </div>
@@ -112,7 +91,7 @@
                   <a href="https://codeblitz.com.ar"
                     >codeBlitz</a
                   >
-                  - 2024
+                  - 2025
                 </div>
               </div>            
             </div>

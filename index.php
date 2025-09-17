@@ -1023,7 +1023,7 @@
                       <img src="assets/images/resource/user3.jpg" alt="" />
                     </div>
                     <h5>Alesia Caprini </h5>
-                    <div class="designation">Publicista, Mamá de tres.</div>
+                    <div class="designation">Publicista, Buenos Aires.</div>
                   </div>
                 </div>
               </div>
@@ -1070,16 +1070,16 @@
                     <span class="fa fa-star"></span>
                   </div>
                   <div class="text">
-                    "Con Laura pude descubrir bloqueos que ni sabía que tenía. Me ayudó a encontrar un nuevo sentido de propósito en mi vida y gestionar mis emociones fue clave en este proceso."
+                    "Laura me acompañó en el proceso de dar un salto en mi carrera profesional. Poder gestionar mis emociones fue clave durante esa etapa."
                   </div>
                 </div>
                 <div class="lower-box">
                   <div class="box-inner">
                     <div class="author-image">
-                      <img src="assets/images/resource/user1.jpg" alt="" />
+                      <img src="assets/images/resource/Lucas.png" alt="" />
                     </div>
-                    <h5>Mariano</h5>
-                    <div class="designation">Castelar, Buenos Aires, ARG.</div>
+                    <h5>Lucas</h5>
+                    <div class="designation">Ilustrador, Buenos Aires.</div>
                   </div>
                 </div>
               </div>
