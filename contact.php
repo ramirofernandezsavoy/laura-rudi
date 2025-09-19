@@ -134,11 +134,22 @@
 						<div class="sec-title">
 							<div class="title color-three">Charlemos</div>
 							<h2>Enviame un mensaje</h2>
+							
+							<?php
+							// Mostrar mensajes de confirmación
+							if(isset($_GET['message'])) {
+								if($_GET['message'] == 'success') {
+									echo '<div style="background: #d4edda; color: #155724; padding: 10px; border-radius: 5px; margin-bottom: 20px;">¡Mensaje enviado exitosamente! Te contactaré pronto.</div>';
+								} elseif($_GET['message'] == 'error') {
+									echo '<div style="background: #f8d7da; color: #721c24; padding: 10px; border-radius: 5px; margin-bottom: 20px;">Error al enviar el mensaje. Por favor, intenta nuevamente.</div>';
+								}
+							}
+							?>
 						</div>
 						
 						<!-- Contact Form -->
 						<div class="contact-form">
-							<form method="post" action="blog.html">
+							<form method="post" action="sendemail.php">
 								<div class="row clearfix">
 								
 									<!-- Form Group -->
@@ -156,7 +167,7 @@
 									<!--Form Group-->
 									<div class="form-group col-lg-12 col-md-12 col-sm-12">
 										<span class="icon flaticon-notebook"></span>
-										<select name="country" class="custom-select-box">
+										<select name="subject" class="custom-select-box">
 											<option>Elegí asunto</option>
 											<option>Talleres</option>
 											<option>Personal</option>
