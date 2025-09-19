@@ -135,7 +135,7 @@
 						<div class="sec-title">
 							<div class="title color-three">Laura Rudi</div>
 							<h2>Coach ontológico y deportivo</h2>
-							<div class="text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque autem nesciunt eum eveniet sed minima, blanditiis a quas commodi iure tempore.</div>
+							<div class="text">Soy coach ontológico y deportivo, especializada en acompañar a las personas en su proceso de autoconocimiento y desarrollo personal.</div>
 						</div>
 						
 						<!-- Skills -->
@@ -146,7 +146,7 @@
 								<div class="skill-header clearfix">
 									<div class="skill-title">Desarrollo personal</div>
 								</div>
-								<div class="text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam quisquam unde placeat consectetur dolore aspernatur beatae eum libero.</div>
+								<div class="text">Ayudo a las personas a identificar y superar sus limitaciones, promoviendo el autoconocimiento y el crecimiento personal.</div>
 							</div>
 						</div>
 						

@@ -181,7 +181,7 @@
 						<!-- Video Intro Widget -->
 						<div class="video-intro-widget">
 							<!-- Video Box -->
-							<div class="intro-video" style="background-image: url(assets/images/resource/thumbnail-talleres.jpg)">
+							<div class="intro-video" style="background-image: url(assets/images/resource/taller-3.jpg)">
 								<!-- Link para video Introductorio -->
 								<!-- <a href="https://www.youtube.com/watch?v=6WeFbSTsus8&t=210s" class="lightbox-image intro-video-box"><span class="fa fa-play"><i class="ripple"></i></span></a> -->
 							</div>
@@ -201,8 +201,8 @@
 								
 								<!-- Social Box -->
 								<ul class="social-box">																
-									<li><a href="https://www.instagram.com/" class="fa fa-instagram"></a></li>
-									<li><a href="https://youtube.com/" class="fa fa-youtube-play"></a></li>
+									<li><a href="https://www.instagram.com/coach.laurarudi" class="fa fa-instagram"></a></li>
+									<li><a href="https://youtube.com/laurarudi" class="fa fa-youtube-play"></a></li>
 								</ul>
 								
 							</div>

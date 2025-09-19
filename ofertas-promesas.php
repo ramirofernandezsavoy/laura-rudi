@@ -144,8 +144,6 @@
 								<!--Tab Btns-->
 								<ul class="tab-btns tab-buttons clearfix">
 									<li data-tab="#prod-overview" class="tab-btn active-btn">Descripción</li>
-									<li data-tab="#prod-curriculum" class="tab-btn">Contenido</li>
-									<li data-tab="#prod-reviews" class="tab-btn">Opiniones</li>
 								</ul>
 								
 								<!--Tabs Container-->
@@ -154,168 +152,18 @@
 									<!-- Tab / Active Tab -->
 									<div class="tab active-tab" id="prod-overview">
 										<div class="content">
-											<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet maxime cupiditate, delectus ex molestias quis tempora consequatur quo amet.</p>
-											<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magni autem est consectetur tenetur, totam voluptatem at vel earum nemo delectus officiis necessitatibus. Beatae tempore adipisci nobis temporibus cum quos facere?</p>
-											
-											<!-- Requirement Box -->
-											<div class="requirement">
-												<h4>Requiere</h4>
-												<div class="row clearfix">
-													
-													<!-- Required Column -->
-													<div class="required-column col-lg-4 col-md-6 col-sm-12">
-														<div class="required-inner">
-															<div class="required-text">Lápiz y papel</div>
-														</div>
-													</div>
-													
-													<!-- Required Column -->
-													<div class="required-column col-lg-4 col-md-6 col-sm-12">
-														<div class="required-inner">
-															<div class="required-text">Lápiz y papel</div>
-														</div>
-													</div>
-
-													<!-- Required Column -->
-													<div class="required-column col-lg-4 col-md-6 col-sm-12">
-														<div class="required-inner">
-															<div class="required-text">Lápiz y papel</div>
-														</div>
-													</div>
-													
-												</div>
-											</div>
-											<!-- End Requirement Box -->
+											<p>El taller de "Ofertas y Promesas" está diseñado para ayudarte a identificar y transformar las creencias limitantes que te impiden avanzar en tu vida personal y profesional.</p>
+											<p>A través de dinámicas grupales y ejercicios individuales, explorarás tus propias ofertas y promesas, y aprenderás a renegociarlas para que se alineen con tus verdaderos deseos y objetivos.</p>
 											
 											<!-- Target Box -->
 											<div class="target-box">
 												<h4>Audiencia ideal</h4>
 												<ul class="target-list">
-													<li>Individuos</li>
-													<li>Grupos pequeños</li>
+													<li>Individuos</li>													
+													<li>Grupos</li>
 												</ul>
 											</div>
 											<!-- End Target Box -->
-											
-										</div>
-									</div>
-									
-									<!-- Tab -->
-									<div class="tab" id="prod-curriculum">
-										<div class="content">
-											
-											<!-- Curriculum Box -->
-											<div class="curriculum-box">
-												<div class="clearfix">
-													<div class="pull-left">
-														<h4>Contenido</h4>
-													</div>
-													<div class="pull-right">
-														<ul class="lessons">
-															<li><span class="icon fa fa-book"></span>Charla grupal</li>
-															<li><span class="icon fa fa-clock-o"></span>1h 30m</li>
-														</ul>
-													</div>
-												</div>
-											</div>
-											<!-- End Curriculum Box -->
-											
-											<!-- Accordian Box -->
-											<ul class="accordion-box">
-												
-												<!-- Block -->
-												<li class="accordion block">
-													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Primera parte</div>
-													<div class="acc-content">
-														<div class="content">
-															<ul class="accordion-list">
-																<li>Tema 1 <a class="lightbox-image list-icon fa fa-play" href="https://www.youtube.com/watch?v=kxPCFljwJws"></a></li>
-																<li>Tema 2 <span class="list-icon fa fa-lock"></span></li>
-																<li>Tema 3 <span class="list-icon fa fa-lock"></span></li>
-															</ul>
-														</div>
-													</div>
-												</li>
-												
-													<!-- Block -->
-													<li class="accordion block">
-														<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Segunda parte</div>
-														<div class="acc-content">
-															<div class="content">
-																<ul class="accordion-list">
-																	<li>Tema 1 <a class="lightbox-image list-icon fa fa-play" href="https://www.youtube.com/watch?v=kxPCFljwJws"></a></li>
-																	<li>Tema 2 <span class="list-icon fa fa-lock"></span></li>
-																	<li>Tema 3 <span class="list-icon fa fa-lock"></span></li>
-																</ul>
-															</div>
-														</div>
-													</li>
-
-														<!-- Block -->
-												<li class="accordion block">
-													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Tercera parte</div>
-													<div class="acc-content">
-														<div class="content">
-															<ul class="accordion-list">
-																<li>Tema 1 <a class="lightbox-image list-icon fa fa-play" href="https://www.youtube.com/watch?v=kxPCFljwJws"></a></li>
-																<li>Tema 2 <span class="list-icon fa fa-lock"></span></li>
-																<li>Tema 3 <span class="list-icon fa fa-lock"></span></li>
-															</ul>
-														</div>
-													</div>
-												</li>
-											</ul>
-											<!-- End Accordian Box -->
-										</div>
-									</div>
-									
-									<!-- Tab -->
-									<div class="tab" id="prod-reviews">
-										<div class="content">
-											
-											<!-- Comments Area -->
-											<div class="comments-area">
-												<div class="group-title">
-													<h4>Feedback</h4>
-												</div>
-												
-												<div class="comment-box">
-													<div class="comment">
-														<div class="author-thumb"><img src="assets/images/resource/user1.jpg" alt=""></div>
-														<div class="comment-info clearfix">
-															<strong>Miguel Reverendo</strong>
-															<div class="comment-time">21 de Julio, 2024</div>
-															<div class="rating">
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-															</div>
-														</div>
-														<div class="text">Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum a quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabocopytyping.</div>														
-													</div>
-												</div>
-												
-												<div class="comment-box">
-													<div class="comment">
-														<div class="author-thumb"><img src="assets/images/resource/user2.jpg" alt=""></div>
-														<div class="comment-info clearfix">
-															<strong>Marcelo Tirado</strong>
-															<div class="comment-time">6 de Julio, 2024</div>
-															<div class="rating">
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-															</div>
-														</div>
-														<div class="text">Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum a quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabocopytyping mean refreshing que porro espanio.</div>														
-													</div>
-												</div>
-												
-											</div>
 											
 										</div>
 									</div>
@@ -334,7 +182,7 @@
 						<!-- Video Intro Widget -->
 						<div class="video-intro-widget">
 							<!-- Video Box -->
-							<div class="intro-video" style="background-image: url(assets/images/resource/thumbnail-talleres.jpg)">
+							<div class="intro-video" style="background-image: url(assets/images/resource/taller-2.jpg)">
 								<a href="https://www.youtube.com/watch?v=6WeFbSTsus8&t=210s" class="lightbox-image intro-video-box"><span class="fa fa-play"><i class="ripple"></i></span></a>
 							</div>
 							<div class="lower-content">								
@@ -353,10 +201,8 @@
 								
 								<!-- Social Box -->
 								<ul class="social-box">
-									<li><a href="https://www.facebook.com/" class="fa fa-facebook-f"></a></li>
-									<li><a href="https://www.twitter.com/" class="fa fa-twitter"></a></li>									
-									<li><a href="https://www.instagram.com/" class="fa fa-instagram"></a></li>
-									<li><a href="https://youtube.com/" class="fa fa-youtube-play"></a></li>
+									<li><a href="https://www.instagram.com/coach.laurarudi" class="fa fa-instagram"></a></li>
+									<li><a href="https://youtube.com/laurarudi" class="fa fa-youtube-play"></a></li>
 								</ul>
 								
 							</div>

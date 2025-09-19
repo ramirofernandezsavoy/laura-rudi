@@ -144,8 +144,6 @@
 								<!--Tab Btns-->
 								<ul class="tab-btns tab-buttons clearfix">
 									<li data-tab="#prod-overview" class="tab-btn active-btn">Descripción</li>
-									<li data-tab="#prod-curriculum" class="tab-btn">Contenido</li>
-									<li data-tab="#prod-reviews" class="tab-btn">Opiniones</li>
 								</ul>
 								
 								<!--Tabs Container-->
@@ -157,151 +155,15 @@
 											<p>La tristeza puede ser un puente hacia el cambio y el autoconocimiento si la abordamos desde una mirada compasiva. En este taller aprenderás a conectar con tus emociones, comprender su propósito y transformarlas en una fuerza que te impulse hacia la alegría.</p>
 											<p>Con ejercicios prácticos y reflexiones profundas, encontrarás herramientas para resignificar momentos difíciles y redescubrir el poder de las emociones positivas.</p>
 											
-											<!-- Requirement Box -->
-											<div class="requirement">
-												<h4>Requiere</h4>
-												<div class="row clearfix">
-													
-													<!-- Required Column -->
-													<div class="required-column col-lg-4 col-md-6 col-sm-12">
-														<div class="required-inner">
-															<div class="required-text">Lápiz / Lapicera</div>
-														</div>
-													</div>
-													
-													<!-- Required Column -->
-													<div class="required-column col-lg-4 col-md-6 col-sm-12">
-														<div class="required-inner">
-															<div class="required-text">Papel</div>
-														</div>
-													</div>
-												</div>
-											</div>
-											<!-- End Requirement Box -->
-											
 											<!-- Target Box -->
 											<div class="target-box">
 												<h4>Audiencia ideal</h4>
 												<ul class="target-list">
-													<li>Individuos</li>
+													<li>Individuos</li>													
 													<li>Grupos</li>
 												</ul>
 											</div>
 											<!-- End Target Box -->
-											
-										</div>
-									</div>
-									
-									<!-- Tab -->
-									<div class="tab" id="prod-curriculum">
-										<div class="content">
-											
-											<!-- Curriculum Box -->
-											<div class="curriculum-box">
-												<div class="clearfix">
-													<div class="pull-left">
-														<h4>Contenido</h4>
-													</div>
-													<div class="pull-right">
-														<ul class="lessons">
-															<li><span class="icon fa fa-book"></span>Charla grupal</li>
-															<li><span class="icon fa fa-clock-o"></span>1h 30m</li>
-														</ul>
-													</div>
-												</div>
-											</div>
-											<!-- End Curriculum Box -->
-											
-											<!-- Accordian Box -->
-											<ul class="accordion-box">
-												
-												<!-- Block -->
-												<li class="accordion block">
-													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>La tristeza como aliada</div>
-													<div class="acc-content">
-														<div class="content">
-															<ul class="accordion-list">
-																<li><p>Comprende el valor de la tristeza y cómo puede ser un motor de cambio.</p></li>																
-															</ul>
-														</div>
-													</div>
-												</li>
-												
-													<!-- Block -->
-													<li class="accordion block">
-														<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Estrategias para salir del estancamiento emocional</div>
-														<div class="acc-content">
-															<div class="content">
-																<ul class="accordion-list">
-																	<li><p>Técnicas para transitar la tristeza y abrir espacio a la alegría.</p></li>																	
-																</ul>
-															</div>
-														</div>
-													</li>
-
-														<!-- Block -->
-												<li class="accordion block">
-													<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Cultivando la alegría en el día a día</div>
-													<div class="acc-content">
-														<div class="content">
-														<ul class="accordion-list">
-																	<li><p>Prácticas para mantener un estado de bienestar emocional constante.</p></li>																	
-																</ul>
-														</div>
-													</div>
-												</li>
-											</ul>
-											<!-- End Accordian Box -->
-										</div>
-									</div>
-									
-									<!-- Tab -->
-									<div class="tab" id="prod-reviews">
-										<div class="content">
-											
-											<!-- Comments Area -->
-											<div class="comments-area">
-												<div class="group-title">
-													<h4>Feedback</h4>
-												</div>
-												
-												<div class="comment-box">
-													<div class="comment">
-														<div class="author-thumb"><img src="assets/images/resource/user1.jpg" alt=""></div>
-														<div class="comment-info clearfix">
-															<strong>Marina Mendez</strong>
-															<div class="comment-time">21 de Diciembre, 2023</div>
-															<div class="rating">
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-															</div>
-														</div>
-														<div class="text">Este taller me permitió ver la tristeza desde otra perspectiva. Me ayudó muchísimo a gestionar mis emociones.</div>														
-													</div>
-												</div>
-												
-												<div class="comment-box">
-													<div class="comment">
-														<div class="author-thumb"><img src="assets/images/resource/user2.jpg" alt=""></div>
-														<div class="comment-info clearfix">
-															<strong>Santi Torres</strong>
-															<div class="comment-time">16 de Diciembre, 2023</div>
-															<div class="rating">
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-																<span class="fa fa-star"></span>
-															</div>
-														</div>
-														<div class="text">La charla fue clara y transformadora. Ahora entiendo cómo procesar un estado de tristeza y dar lugar a uno más alegre de manera saludable.</div>														
-													</div>
-												</div>
-												
-											</div>
 											
 										</div>
 									</div>
@@ -320,7 +182,7 @@
 						<!-- Video Intro Widget -->
 						<div class="video-intro-widget">
 							<!-- Video Box -->
-							<div class="intro-video" style="background-image: url(assets/images/resource/thumbnail-talleres.jpg)">
+							<div class="intro-video" style="background-image: url(assets/images/resource/taller-1.jpg)">
 								<!-- Link para video introductorio -->
 								<!-- <a href="https://www.youtube.com/watch?v=6WeFbSTsus8&t=210s" class="lightbox-image intro-video-box"><span class="fa fa-play"><i class="ripple"></i></span></a> -->
 							</div>
@@ -340,8 +202,8 @@
 								
 								<!-- Social Box -->
 								<ul class="social-box">																	
-									<li><a href="https://www.instagram.com/" class="fa fa-instagram"></a></li>
-									<li><a href="https://youtube.com/" class="fa fa-youtube-play"></a></li>
+									<li><a href="https://www.instagram.com/coach.laurarudi" class="fa fa-instagram"></a></li>
+									<li><a href="https://youtube.com/laurarudi" class="fa fa-youtube-play"></a></li>
 								</ul>
 								
 							</div>

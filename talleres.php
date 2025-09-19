@@ -94,7 +94,7 @@
       <!-- END sidebar widget item -->
 	
 	<!-- Page Title Section -->
-	<section class="page-title" style="background-image: url(assets/images/resource/coaching-deportivo-image2.jpg); background-size: cover; background-position: center center;">
+	<section class="page-title" style="background-image: url(assets/images/resource/coaching-deportivo-image2222.jpg); background-size: cover; background-position: center center;">
 		<div class="auto-container">			
 			<div class="auto-container">
 				<div class="content">				
