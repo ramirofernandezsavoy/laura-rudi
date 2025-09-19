@@ -1022,7 +1022,7 @@
                     <div class="author-image">
                       <img src="assets/images/resource/user3.jpg" alt="" />
                     </div>
-                    <h5>Alesia Caprini </h5>
+                    <h5>Victoria Coronel</h5>
                     <div class="designation">Publicista, Buenos Aires.</div>
                   </div>
                 </div>
@@ -1050,7 +1050,7 @@
                     <div class="author-image">
                       <img src="assets/images/resource/user2.jpg" alt="" />
                     </div>
-                    <h5>Jorge Martino</h5>
+                    <h5>Axel R.</h5>
                     <div class="designation">Empresario, Buenos Aires.</div>
                   </div>
                 </div>
@@ -1106,8 +1106,8 @@
                     <div class="author-image">
                       <img src="assets/images/resource/user4.jpg" alt="" />
                     </div>
-                    <h5>Angela Paredes</h5>
-                    <div class="designation">Futbolista, Buenos Aires.</div>
+                    <h5>Angela</h5>
+                    <div class="designation">Jugadora de Hockey, Hurlingham, Bs. As.</div>
                   </div>
                 </div>
               </div>
